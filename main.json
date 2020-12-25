@@ -82,6 +82,12 @@
          "id":14,
          "name":"exitexit",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"start"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
