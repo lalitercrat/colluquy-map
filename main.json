@@ -50,7 +50,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json#entry_command"
+                 "value":"#entry_command"
                 }],
          "type":"tilelayer",
          "visible":true,
