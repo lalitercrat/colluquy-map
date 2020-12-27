@@ -1230,8 +1230,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":1674,
-         "source":"tilesets\/intdeesign.tsx"
+         "image":"tilesets-src\/intdeesign.png",
+         "imageheight":2048,
+         "imagewidth":512,
+         "margin":0,
+         "name":"intdeesign",
+         "spacing":0,
+         "tilecount":1024,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
