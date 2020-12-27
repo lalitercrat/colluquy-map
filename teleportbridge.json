@@ -134,7 +134,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"{main.json#entrycommand}"
+                 "value":"<entrycommand>\/main.json#entrycommand"
                 }],
          "type":"tilelayer",
          "visible":true,
