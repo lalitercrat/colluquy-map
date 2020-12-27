@@ -1217,13 +1217,22 @@
          "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":1034,
-         "source":"tilesets\/durtschis-overlay.tsx"
+         "image":"tilesets-src\/durtschis-overlay.png",
+         "imageheight":1280,
+         "imagewidth":512,
+         "margin":0,
+         "name":"durtschis-overlay",
+         "spacing":0,
+         "tilecount":640,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "columns":16,
          "firstgid":1674,
-         "image":"..\/..\/Documents\/rc3\/tilesets-src\/intdeesign.png",
+         "image":"tilesets-src\/intdeesign.png",
          "imageheight":2048,
          "imagewidth":512,
          "margin":0,
