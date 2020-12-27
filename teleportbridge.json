@@ -80,7 +80,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json"
+                 "value":"main.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -134,7 +134,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"main.json#entrycommand"
+                 "value":"{main.json#entrycommand}"
                 }],
          "type":"tilelayer",
          "visible":true,

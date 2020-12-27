@@ -86,7 +86,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/art-games.json#start_tinfoil-colloquy}"
+                 "value":"{<lobby>\/maps\/art-games.json#start_tinfoil-colloquy}"
                 }],
          "type":"tilelayer",
          "visible":true,
