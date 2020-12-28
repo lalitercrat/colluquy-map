@@ -4,7 +4,7 @@
      "export":
         {
          "format":"json",
-         "target":"main.json"
+         "target":"..\/Projects\/Legoroad\/main.json"
         }
     },
  "height":100,
@@ -110,7 +110,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/min.tinfoil.yoga\/stream"
+                 "value":"https:\/\/min.tinfoil.yoga\/stream\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -349,7 +349,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"tilesets\/intdeesign.png",
+         "image":"..\/Projects\/Legoroad\/tilesets\/intdeesign.png",
          "imageheight":2048,
          "imagewidth":512,
          "margin":0,
@@ -1272,7 +1272,7 @@
         {
          "columns":9,
          "firstgid":1025,
-         "image":"tilesets\/mapUtilities.png",
+         "image":"..\/Projects\/Legoroad\/tilesets\/mapUtilities.png",
          "imageheight":32,
          "imagewidth":288,
          "margin":0,
@@ -1285,7 +1285,7 @@
         {
          "columns":16,
          "firstgid":1034,
-         "image":"tilesets-src\/durtschis-overlay.png",
+         "image":"..\/Projects\/Legoroad\/tilesets-src\/durtschis-overlay.png",
          "imageheight":1280,
          "imagewidth":512,
          "margin":0,
@@ -1298,7 +1298,7 @@
         {
          "columns":16,
          "firstgid":1674,
-         "image":"tilesets-src\/intdeesign.png",
+         "image":"..\/Projects\/Legoroad\/tilesets-src\/intdeesign.png",
          "imageheight":2048,
          "imagewidth":512,
          "margin":0,
