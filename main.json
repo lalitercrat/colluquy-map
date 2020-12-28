@@ -92,7 +92,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/min.tinfoil.yoga\/stream\/"
+                 "value":"https:\/\/min.tinfoil.yoga\/stream"
                 }],
          "type":"tilelayer",
          "visible":true,
